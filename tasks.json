@@ -1,0 +1,12 @@
+{
+    "tasks":{
+        "readBook":{
+            "name":"Read Book",
+            "description":"Read a book for 30 minutes",
+        },
+        "guitar":{
+            "name":"Practice Guitar",
+            "description":"Practice guitar for 30 minutes",
+        },
+    }
+}
